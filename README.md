@@ -15,7 +15,7 @@ By dividing the layout of an activity into fragments, you become able to modify 
 You should design each fragment as a modular and reusable activity component.  
 
 
-![alt text](https://github.com/xMansour/Android-Developer-Guides/Images/Fragments/fragment_lifecycle.png "Fragment Life Cycle")  
+![alt text](https://github.com/xMansour/Android-Developer-Guides/tree/master/Images/Fragments/fragment_lifecycle.png "Fragment Life Cycle")  
 
 To create a fragment, you must create a subclass of `Fragment`. The `Fragment` class has code that looks a lot like an `Activity`. It contains callback methods similar to an activity, such as `onCreate()`, `onStart()`, `onPause()`, and `onStop()`.  
 
